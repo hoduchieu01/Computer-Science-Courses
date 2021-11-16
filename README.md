@@ -1,1 +1,1 @@
-# Computer-Science-Courses
+# 🎓 List of my self-learning Computer Science courses
