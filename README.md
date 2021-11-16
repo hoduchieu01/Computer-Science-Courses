@@ -1,4 +1,4 @@
-# 🎓 List of my self-learning Computer Science courses
+# 🎓 List of My Self-Learning Computer Science Courses
 
 
 | Track                  | Courses                                                                                            | My Implementation |
