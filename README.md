@@ -7,4 +7,4 @@
 |  Computer Programming  | CSE 143 (CS2): Introduction to Computer Programming II - University of Washington                  |[Repository Link](https://github.com/hoduchieu01/Computer-Programming) |
 |  Computer Programming  | CSE 143 (CS2): Introduction to Computer Programming II - University of Washington                  |[Repository Link](https://github.com/hoduchieu01/Computer-Programming) |
 |  Artificial Intelligence  | CS229: Machine Learning - Stanford University                                                   |[Repository Link](https://github.com/hoduchieu01/CS229-Machine-Learning) |
-|  Mobile Application Development | CS193p Developing Apps for iOS                                                            |[Repository Link](https://github.com/hoduchieu01/CS193p-Developing-Apps-for-iOS)|
+|  Mobile Application Development | CS193p Developing Apps for iOS - Stanford University                                      |[Repository Link](https://github.com/hoduchieu01/CS193p-Developing-Apps-for-iOS)|
