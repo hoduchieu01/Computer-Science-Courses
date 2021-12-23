@@ -4,3 +4,6 @@
 [submodule "CS229-Machine-Learning"]
 	path = CS229-Machine-Learning
 	url = https://github.com/hoduchieu01/CS229-Machine-Learning
+[submodule "CS193p-Developing-Apps-for-iOS"]
+	path = CS193p-Developing-Apps-for-iOS
+	url = https://github.com/hoduchieu01/CS193p-Developing-Apps-for-iOS
