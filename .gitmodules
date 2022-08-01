@@ -7,3 +7,6 @@
 [submodule "CS193p-Developing-Apps-for-iOS"]
 	path = CS193p-Developing-Apps-for-iOS
 	url = https://github.com/hoduchieu01/CS193p-Developing-Apps-for-iOS
+[submodule "Computer-Convergence-Application"]
+	path = Computer-Convergence-Application
+	url = https://github.com/hoduchieu01/Computer-Convergence-Application
